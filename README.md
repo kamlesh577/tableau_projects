@@ -18,7 +18,7 @@ Real Estate Across the United States (REXUS) is the primary tool used by PBS to 
 
     • In which type of property parking space is excess.
 
-etc...
+etc..
 
 # Findings:
 
