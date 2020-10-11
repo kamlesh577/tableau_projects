@@ -1,6 +1,6 @@
 # Tableau_project
 
-This repository contains the analysis and visualizations that I have created using Tableau
+This repository contains the analysis and visualizations that I have created using Tableau.
 
 # Data: 
 The data used for this project is-->>  Supervised-Real-Estate-Across-the-United-States-REXUS-Inventory-Building-2014.
